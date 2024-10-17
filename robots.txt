@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://lolomekili.pages.dev/sitemap.xml
